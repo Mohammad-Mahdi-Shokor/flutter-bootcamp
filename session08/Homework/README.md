@@ -35,7 +35,7 @@ Only add the item if:
 | Name     | 2 to 20 characters                                    |
 | Quantity | a whole number from 1 to 99 (hint: `int.tryParse`)    |
 
-## Before you submit
+## Make sure that:   
 
 - [ ] The 2 starting items still show in the list.
 - [ ] A valid item appears in the list right after pressing **Add**.
@@ -43,4 +43,3 @@ Only add the item if:
 - [ ] The Quantity field opens the number keyboard.
 - [ ] Tapping any item, including new ones, opens its details page.
 
-Submit your `lib/` folder (or a GitHub link) before the next session.
