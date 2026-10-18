@@ -5,3 +5,5 @@
 3. Add the `flutter_riverpod` dependency to your `pubspec.yaml` file.
 4. Run the following command in your terminal: `flutter pub get`
 
+**Homework** 
+Checkout /Homework/README.md for details
