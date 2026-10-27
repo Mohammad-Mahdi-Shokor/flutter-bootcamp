@@ -4,7 +4,7 @@ import '../models/task.dart';
 import '../utils/custom_text_size.dart';
 
 class TaskdetailsPage extends StatelessWidget {
-  const new({super.key, required this.t});
+  const TaskdetailsPage({super.key, required this.t});
   final Task t;
   @override
   Widget build(BuildContext context) {

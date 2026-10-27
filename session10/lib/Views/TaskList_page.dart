@@ -18,7 +18,7 @@
 import 'dart:convert'; // NEW: gives us jsonDecode() to turn JSON text into a Map
 
 import 'package:flutter/material.dart';
-import 'package:flutter_14_7/models/quote.dart'; // NEW: the model from quote.dart
+import '../models/quote.dart'; // NEW: the model from quote.dart
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:http/http.dart' as http; // NEW: the http package does the GET
 

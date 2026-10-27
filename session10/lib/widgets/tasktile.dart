@@ -5,7 +5,7 @@ import '../models/task.dart';
 import '../utils/custom_colors.dart';
 
 class Task_Tile extends StatelessWidget {
-  const new({
+  const Task_Tile({
     super.key,
     required this.task,
     required this.changeStatus,
