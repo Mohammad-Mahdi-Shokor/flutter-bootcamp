@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:session_11/services/request.dart';
+import 'request.dart';
 
 class Services {
   static final Services _singleton = Services._internal();
